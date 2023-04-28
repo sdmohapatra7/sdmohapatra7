@@ -2,7 +2,7 @@
 <h3 align="center">A passionate full-stack developer from India</h3>
 
 # 💫 About Me:
-🔭 I’m currently working on codeial project(A Social Media App) <img align="right" src="[https://i.pinimg.com/originals/83/b8/09/83b809857acd41a7bad4935b4734f9fc.gif](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.wallpaperflare.com%2Fsearch%3Fwallpaper%3Dcoder&psig=AOvVaw0V7cD-i99lNCKwcen_-3AO&ust=1682753531895000&source=images&cd=vfe&ved=2ahUKEwic8q_Fh8z-AhVVwDgGHR4gCPoQjRx6BAgAEAw)" alt="coding" width="40%"><br><br>🌱 I’m currently learning Node.js, React<br><br>💬 Ask me about nodejs, JavaScript, Bootstrap, Java<br><br>📫 How to reach me sdmohapatra7@gmail.com
+🔭 I’m currently working on codeial project(A Social Media App) <img align="right" src="[[https://i.pinimg.com/originals/83/b8/09/83b809857acd41a7bad4935b4734f9fc.gif](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.wallpaperflare.com%2Fsearch%3Fwallpaper%3Dcoder&psig=AOvVaw0V7cD-i99lNCKwcen_-3AO&ust=1682753531895000&source=images&cd=vfe&ved=2ahUKEwic8q_Fh8z-AhVVwDgGHR4gCPoQjRx6BAgAEAw)](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.wallpaperflare.com%2Fsearch%3Fwallpaper%3Dcoder&psig=AOvVaw0V7cD-i99lNCKwcen_-3AO&ust=1682753531895000&source=images&cd=vfe&ved=2ahUKEwic8q_Fh8z-AhVVwDgGHR4gCPoQjRx6BAgAEAw)" alt="coding" width="40%"><br><br>🌱 I’m currently learning Node.js, React<br><br>💬 Ask me about nodejs, JavaScript, Bootstrap, Java<br><br>📫 How to reach me sdmohapatra7@gmail.com
 
 
 
