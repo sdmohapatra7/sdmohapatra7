@@ -2,7 +2,7 @@
 <h3 align="center">A passionate full-stack developer from India</h3>
 
 # 💫 About Me:
-🔭 I’m currently working on codeial project(A Social Media App) <img align="right" src="[https://wallpapers.com/wallpapers/funny-coding-r1ubgelhk4ffxyrt.html](https://wallpapers.com/wallpapers/funny-coding-r1ubgelhk4ffxyrt.html?embed=true)" alt="coding" width="40%"><br><br>🌱 I’m currently learning Node.js, React<br><br>💬 Ask me about nodejs, JavaScript, Bootstrap, Java<br><br>📫 How to reach me sdmohapatra7@gmail.com
+🔭 I’m currently working on codeial project(A Social Media App) <img align="right" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Ftenor.com%2Fview%2Fcoding-gif-24625099&psig=AOvVaw1Gn9ilfSERkNKyOQUC9qvw&ust=1682754588496000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCPDS1L6LzP4CFQAAAAAdAAAAABAG" alt="coding" width="40%"><br><br>🌱 I’m currently learning Node.js, React<br><br>💬 Ask me about nodejs, JavaScript, Bootstrap, Java<br><br>📫 How to reach me sdmohapatra7@gmail.com
 
 
 
