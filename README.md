@@ -1,3 +1,4 @@
+![logo](https://github.com/sdmohapatra7/sdmohapatra7/blob/master/image.png)
 <h1 align="center">Hi 👋, I'm Shaktidhar Mohapatra</h1>
 <h3 align="center">A passionate full-stack developer from India</h3>
 
