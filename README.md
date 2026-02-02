@@ -1,4 +1,4 @@
-![logo](https://user-images.githubusercontent.com/121569281/235301319-7effbfb2-2c4d-4f4b-8ce0-a7d6b496a10d.jpg)
+![logo]([https://user-images.githubusercontent.com/121569281/235301319-7effbfb2-2c4d-4f4b-8ce0-a7d6b496a10d.jpg](https://github.com/sdmohapatra7/sdmohapatra7/blob/master/banner.png?raw=true))
 
 <h1 align="center">Hi 👋, I'm Shaktidhar Mohapatra</h1>
 <h3 align="center">Frontend-Heavy Full-Stack Developer | React • Node.js • MongoDB</h3>
