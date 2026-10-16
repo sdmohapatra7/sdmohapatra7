@@ -185,7 +185,19 @@ Currently working at **Vis Network Pvt Ltd**, driving frontend engineering for t
 ---
 
 ## 💰 Support My Work
-[![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/sdmohapatra7)
+
+<p align="left">
+  <a href="https://www.buymeacoffee.com/sdmohapatra7" target="_blank">
+    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="45" />
+  </a>
+</p>
+
+<p align="left">
+  <sub><b>📱 Scan to Buy Me A Coffee:</b></sub><br/>
+  <a href="https://www.buymeacoffee.com/sdmohapatra7" target="_blank">
+    <img src="https://raw.githubusercontent.com/sdmohapatra7/sdmohapatra7/master/bmc_qr.png" alt="Buy Me A Coffee QR Code" width="190" />
+  </a>
+</p>
 
 ---
 
